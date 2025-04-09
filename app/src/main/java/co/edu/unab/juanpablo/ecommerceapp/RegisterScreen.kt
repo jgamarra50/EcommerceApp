@@ -133,6 +133,9 @@ fun RegisterScreen(){
                 },
                 shape = RoundedCornerShape(32.dp)
             )
+
+            Spacer(modifier = Modifier.height(16.dp))
+
             Button(
                 onClick = {},
                 colors = ButtonDefaults.buttonColors(
