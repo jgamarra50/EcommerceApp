@@ -59,7 +59,7 @@ fun HomeScreen() {
                 navigationIcon = {
                     IconButton(onClick = { /* do something */ }) {
                         Icon(
-                            imageVector = Icons.AutoMirrored.Filled.ArrowBack,
+                            imageVector = Icons.AutoMirrorred.Filled.ExitToApp,
                             contentDescription = "Localized description"
                         )
                     }
